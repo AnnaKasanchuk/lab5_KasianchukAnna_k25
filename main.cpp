@@ -1,5 +1,5 @@
 // Author: Kasianchuk Anna K-25
-// Variant 19
+// Variant 16
 // Compiler: Bundled MinGW 14.0 w64 (GCC 14), CLion toolchain
 // Language standard: C++20
 
